@@ -1,0 +1,6 @@
+/* Ensure Tailwind CSS is included first */
+@tailwind base;
+@tailwind components; 
+@tailwind utilities;
+
+/* Custom CSS */
